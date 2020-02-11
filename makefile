@@ -1,5 +1,6 @@
 run: main.py
 	python3 main.py
+	@echo img.png
 
 clean:
 	# rm *.pyc
